@@ -6,8 +6,8 @@ Kubernetes is the Greek word for Helmsman of a ship. This name was chosen becaus
 
 <h3>Next Steps:</h3>
 <ul>
-<li>Install Docker </li>
-<li>Install Minikube </li>
+<li>Install Docker: Your docker container runtime should run before your spin up your cluster, you can go with other options like podman too rather than Docker </li>
+<li>Install Minikube : This will help you to try and test the kubernetes commands on your local machine for free</li>
 
 </ul>
 
