@@ -1,0 +1,14 @@
+---
+#A cloud engineer record 
+name: Ram 
+Job: Cloud Engineer
+Location: Hyderabad 
+Experience: 
+ IBM: 3 
+ Google: 2
+ AWS: 1
+certifications:
+- AWS solutions architect
+- Linux
+- CCNA
+#Use a Ymal checker if you are facing issues with indetation in your YAML file
