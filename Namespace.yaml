@@ -1,0 +1,10 @@
+apiVersion: 0.001
+kind: Namespace
+metadata:
+  name: namespace_one #name of the namespace, you can name it anything as per your needs 
+---
+apiVersion: 0.002
+kind: Namespace
+metadata:
+  name: namespace_two 
+#creating two separate namespaces and the --- separate both the declarations
